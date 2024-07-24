@@ -12,6 +12,10 @@ The dataset includes the following files:
 - `stores_data`
 - `products_data`
 
+## Schema
+
+<img width="564" alt="Screenshot 2024-07-24 123004" src="https://github.com/user-attachments/assets/017cda08-c8ea-4843-9504-de0a3c3a9a15">
+
 ### Store Locations
 
 Each city can have four types of store locations:
